@@ -24,7 +24,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :globe_with_meridians: I love programming and passionate about new technologies.
 
 - :mag_right: I looking for a group of like-minded programmers.
