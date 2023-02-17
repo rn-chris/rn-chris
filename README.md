@@ -56,10 +56,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </div>
 
 ---
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rn-chris)](https://git.io/streak-stats)
-
 ---
 
 ### :desktop_computer: My Projects for sharing:
